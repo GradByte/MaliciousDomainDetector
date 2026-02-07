@@ -1,0 +1,19 @@
+# Malicious Domain Detection - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Data manipulation and analysis
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Machine learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional: For better performance with large datasets
+# joblib>=1.0.0
+
+# Optional: For saving/loading trained models
+# pickle (built-in, no install needed)
